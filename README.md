@@ -34,14 +34,14 @@ guess_game_udp/
 ---
 
 ## How to Run
-Step 1: Run the Server
+Step 1: Run the Server,
 Open a terminal and run: server.exe
 
 You will see:
 UDP Server started on port 8080
 Secret number is: XX
 
-Step 2: Run the Client
+Step 2: Run the Client,
 Open another terminal and run: client.exe
 Now start guessing the number!
 
