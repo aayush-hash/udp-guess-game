@@ -17,14 +17,14 @@ This is a simple **"Guess the Number" game** implemented in **C++ using UDP sock
 ## Project Structure
 
 guess_game_udp/
-├── server.cpp # UDP server that generates and evaluates guesses
-├── client.cpp # UDP client that interacts with the user
-└── README.md # Documentation and usage guide
+├── server.cpp 
+├── client.cpp 
+└── README.md 
 
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Windows OS
 - C++ Compiler (MinGW g++, MSVC, or Code::Blocks)
